@@ -8,23 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Suricato Furtivo\\.nuget\\packages\\": {},
+    "C:\\Users\\Condoriano\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\Armarinho.csproj",
       "projectName": "Armarinho",
       "projectPath": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\Armarinho.csproj",
       "packagesPath": "C:\\Users\\Suricato Furtivo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\Armarinho.csproj",
+      "projectName": "Armarinho",
+      "projectPath": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\Armarinho.csproj",
+      "packagesPath": "C:\\Users\\Condoriano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\",
+>>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Suricato Furtivo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Condoriano\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +41,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
