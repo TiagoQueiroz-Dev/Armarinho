@@ -1,9 +1,12 @@
-﻿<!DOCTYPE html>
+﻿@{
+  var title = "Mangaba";
+}
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Armarinho</title>
+    <title>@title - @ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Armarinho.styles.css" asp-append-version="true" />
@@ -13,10 +16,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap" rel="stylesheet">
+    <link rel="icon" href="mVariedadesico.ico" type="image/x-icon">
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom shadow-sm p-3 mb-3 bg-white rounded f fluid">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom shadow-sm p-3 mb-3 bg-white rounded f fluid">
            <div class="container fluid justify-content-evenly w-100">
             <div class="mangabaMenu" style="margin-bottom: 15px;">
                 <div class="row d-flex">
@@ -77,14 +81,18 @@
         </nav>
     </header>
     <div class="container d-flex">
-        <main role="main" class="pb-3 w-100 d-flex justify-content-center">
+        <main role="main" class="pb-3 w-100 d-flex justify-content-center mb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Armarinho - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer class="border-top footer text-muted d-flex">
+        <div class="container d-flex w-100 align-items-center  mt-3 mb-3">
+          <img class="pe-4" src="mVariedadesico.ico" alt="">
+          <div class="redes w-100"><h6>Redes Sociais</h6></div>
+            <div class="copyright d-flex align-items-center justify-content-around"> <div class="copy pe-2"> &copy; </div>
+            <h6>Copyright 2023 Mangaba Variedades - Todos os direitos reservados</h6>
+            </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

@@ -14,6 +14,14 @@
     display: none!important;
   }
 }
+.botao_carrossel{
+  position: absolute;
+  justify-content: start;
+  margin: 1.5rem 0 0 0;
+}
+.copyright h6{
+  margin: 0;
+}
 html {
   font-size: 14px;
   scroll-behavior: smooth;
