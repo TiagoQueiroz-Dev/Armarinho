@@ -19,7 +19,8 @@
   justify-content: start;
   margin: 1.5rem 0 0 0;
 }
-.copyright h6{
+.copyright{
+  font-size: small;
   margin: 0;
 }
 html {
@@ -192,4 +193,13 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+.redes ul li{
+  list-style: none;
+}
+.redes h6{
+  margin: 0;
+}
+.design h6,.desenvolvimento h6{
+  text-align: start;
 }
