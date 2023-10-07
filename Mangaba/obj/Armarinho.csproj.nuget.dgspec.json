@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\021.854295\\Desktop\\Armarinho\\Mangaba\\Armarinho.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\021.854295\\Desktop\\Armarinho\\Mangaba\\Armarinho.csproj",
         "packagesPath": "C:\\Users\\021.854295\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\021.854295\\Desktop\\Armarinho\\Mangaba\\obj\\",
+=======
+    "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj",
+        "projectName": "Armarinho",
+        "projectPath": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj",
+        "packagesPath": "C:\\Users\\021.854295\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\",
+>>>>>>> main
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

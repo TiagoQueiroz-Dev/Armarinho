@@ -58,6 +58,7 @@ C:\Users\021.854295\Desktop\Mangaba\Armarinho\Mangaba\obj\Debug\net7.0\refint\Ar
 C:\Users\021.854295\Desktop\Mangaba\Armarinho\Mangaba\obj\Debug\net7.0\Armarinho.pdb
 C:\Users\021.854295\Desktop\Mangaba\Armarinho\Mangaba\obj\Debug\net7.0\Armarinho.genruntimeconfig.cache
 C:\Users\021.854295\Desktop\Mangaba\Armarinho\Mangaba\obj\Debug\net7.0\ref\Armarinho.dll
+<<<<<<< HEAD
 C:\Users\021.854295\Desktop\Armarinho\Mangaba\obj\Debug\net7.0\Armarinho.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\021.854295\Desktop\Armarinho\Mangaba\obj\Debug\net7.0\Armarinho.AssemblyInfoInputs.cache
 C:\Users\021.854295\Desktop\Armarinho\Mangaba\obj\Debug\net7.0\Armarinho.AssemblyInfo.cs
@@ -73,3 +74,5 @@ C:\Users\021.854295\Desktop\Armarinho\Mangaba\obj\Debug\net7.0\staticwebassets.p
 C:\Users\021.854295\Desktop\Armarinho\Mangaba\obj\Debug\net7.0\Armarinho.dll
 C:\Users\021.854295\Desktop\Armarinho\Mangaba\obj\Debug\net7.0\refint\Armarinho.dll
 C:\Users\021.854295\Desktop\Armarinho\Mangaba\obj\Debug\net7.0\Armarinho.pdb
+=======
+>>>>>>> main

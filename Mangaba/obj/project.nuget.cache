@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TTC/Y3CGtmZFNndRwngm+VVSWJma4fPP2GEW1xAs5scSUheQhR2VpUvFjRT647vtrAisSCKaa8jUXcWPpz3zkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\021.854295\\Desktop\\Armarinho\\Mangaba\\Armarinho.csproj",
+=======
+  "dgSpecHash": "86+H7ODNjz7Xaw5YNUoPaW5eLBvBfUk87yp0zvT3PMYY3JJ69L9Gpo3UayidA2Mb6FFyBXPfha4Hd3FPsYp1JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj",
+>>>>>>> main
   "expectedPackageFiles": [],
   "logs": []
 }
