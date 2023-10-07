@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zJqiCukJ/GYaUuhbcGr2yU/OsnYI10f/a49wRoZfZqM=",
+  "Hash": "emecLFABbTcdNmNaY8Xse7s2AWHAeLT95E6+2Z+a0xg=",
   "Source": "Armarinho",
   "BasePath": "_content/Armarinho",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Armarinho\\wwwroot",
       "Source": "Armarinho",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css",
       "SourceId": "Armarinho",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "Armarinho.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css"
+      "OriginalItemSpec": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Armarinho.bundle.scp.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Armarinho.bundle.scp.css",
       "SourceId": "Armarinho",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "Armarinho.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,47 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Armarinho.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Armarinho.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\bolsa.ico",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "bolsa.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bolsa.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\criativa.svg",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "criativa.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\criativa.svg"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\css\\site.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +102,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\facebook.ico",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "facebook.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\facebook.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\favicon.ico",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +136,44 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\img1.png",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "img1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img1.png"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\instagram.ico",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "instagram.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\instagram.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\js\\site.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +187,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\Koios.svg",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "Koios.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Koios.svg"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -187,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -255,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -272,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -289,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -306,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -323,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -391,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -408,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -425,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -442,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -459,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -527,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -544,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -561,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -578,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -595,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -884,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -901,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -918,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -935,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -952,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -969,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -986,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1003,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1020,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1037,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1054,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lupa.png",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lupa.png",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "lupa.png",
       "AssetKind": "All",
@@ -1088,10 +1190,27 @@
       "OriginalItemSpec": "wwwroot\\lupa.png"
     },
     {
-      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\Nunito-VariableFont_wght.ttf",
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\mVariedadesico.ico",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "mVariedadesico.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mVariedadesico.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\Nunito-VariableFont_wght.ttf",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "Nunito-VariableFont_wght.ttf",
       "AssetKind": "All",
