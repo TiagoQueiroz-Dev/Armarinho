@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\Nunito-VariableFont_wght.ttf"
     },
     {
+      "Id": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\bolsa.ico",
+      "PackagePath": "staticwebassets\\bolsa.ico"
+    },
+    {
       "Id": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\img1.png",
+      "PackagePath": "staticwebassets\\img1.png"
     },
     {
       "Id": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\js\\site.js",
@@ -251,6 +259,10 @@
     {
       "Id": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\lupa.png",
       "PackagePath": "staticwebassets\\lupa.png"
+    },
+    {
+      "Id": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\mVariedadesico.ico",
+      "PackagePath": "staticwebassets\\mVariedadesico.ico"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Armarinho.Microsoft.AspNetCore.StaticWebAssets.props",
