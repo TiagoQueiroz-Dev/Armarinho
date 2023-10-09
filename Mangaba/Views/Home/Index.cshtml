@@ -40,73 +40,16 @@
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
                 </div>
             <div class="carousel-inner">
-            <div class="carousel-item active">
-                <div class="row align-items-start">
-                @foreach(var item in Model){
-                    <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>@item.Nome</h6>
-                    <h5>R$ @item.Valor</h5>
-                    </div>
-                }
-                </div>
-            <div class="carousel-item">
-                <div class="row align-items-start">
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-            </div>
-                </div>
-            <div class="carousel-item">
+                <div class="carousel-item active">
                     <div class="row align-items-start">
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-            </div>
+                        @foreach(var item in Model){
+                            <div class="col flex-column pb-5">
+                                <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
+                                <h6>@item.Nome</h6>
+                                <h5>R$ @item.Valor</h5>
+                            </div>
+                        }
+                    </div>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
