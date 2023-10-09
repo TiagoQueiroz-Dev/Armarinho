@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Armarinho")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b94adfb1a9b39542f03e76ac32a7956db6874f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Armarinho")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Armarinho")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

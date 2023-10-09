@@ -1,5 +1,10 @@
 C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\appsettings.json
+C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\out\web.config
+C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\out\appsettings.Development.json
+C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\out\appsettings.json
+C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\out\Armarinho.deps.json
+C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\out\Armarinho.runtimeconfig.json
 C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\Armarinho.staticwebassets.runtime.json
 C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\Armarinho.exe
 C:\Users\Suricato Furtivo\Documents\Armarinho\Mangaba\bin\Debug\net7.0\Armarinho.deps.json
