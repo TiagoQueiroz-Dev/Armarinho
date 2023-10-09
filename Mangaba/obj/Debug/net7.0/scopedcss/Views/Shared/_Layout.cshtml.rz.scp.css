@@ -1,10 +1,5 @@
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
-@media only screen and (max-width: 767px) {
-  .conteudos[b-6c6cqbuvlm]{
-    display: none !important;
-  }
-}
 .mangabaMenu[b-6c6cqbuvlm]{
 width: 100%;
 font-family:'Nunito', sans-serif;
@@ -12,6 +7,7 @@ font-size: 18px;
 font-style: normal;
 line-height: 28px;
 }
+
 a.navbar-brand[b-6c6cqbuvlm] {
   white-space: normal;
   text-align: center;

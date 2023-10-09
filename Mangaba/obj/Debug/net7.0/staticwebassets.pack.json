@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\bolsa.ico"
     },
     {
+      "Id": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\Mangaba\\wwwroot\\burguerbutton.ico",
+      "PackagePath": "staticwebassets\\burguerbutton.ico"
+    },
+    {
+      "Id": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\Mangaba\\wwwroot\\burguerbutton.png",
+      "PackagePath": "staticwebassets\\burguerbutton.png"
+    },
+    {
       "Id": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\Mangaba\\wwwroot\\criativa.svg",
       "PackagePath": "staticwebassets\\criativa.svg"
     },
@@ -277,8 +285,16 @@
       "PackagePath": "staticwebassets\\lupa.png"
     },
     {
+      "Id": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\Mangaba\\wwwroot\\mVariedades.svg",
+      "PackagePath": "staticwebassets\\mVariedades.svg"
+    },
+    {
       "Id": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\Mangaba\\wwwroot\\mVariedadesico.ico",
       "PackagePath": "staticwebassets\\mVariedadesico.ico"
+    },
+    {
+      "Id": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\Mangaba\\wwwroot\\mangaba.svg",
+      "PackagePath": "staticwebassets\\mangaba.svg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Armarinho.Microsoft.AspNetCore.StaticWebAssets.props",

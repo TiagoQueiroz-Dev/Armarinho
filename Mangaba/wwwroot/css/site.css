@@ -13,15 +13,17 @@
   .bloco2_mobile{
     display: none!important;
   }
+  .burguerButton{
+    display: none!important;
+  }
 }
 .botao_carrossel{
   position: absolute;
   justify-content: start;
   margin: 1.5rem 0 0 0;
 }
-.copyright{
-  font-size: small;
-  margin: 0;
+.burguer{
+  width: 48px;
 }
 html {
   font-size: 14px;
@@ -72,6 +74,9 @@ html {
   gap: 8px;
   flex-shrink: 0;
   border-radius: 30px;
+}
+.redes .h6{
+  margin: 0;
 }
 .bloco2{
   margin: 0;
