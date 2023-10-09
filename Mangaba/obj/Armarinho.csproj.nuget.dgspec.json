@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\Mangaba\\Armarinho.csproj": {}
 =======
 <<<<<<< HEAD
@@ -36,14 +37,33 @@
         "outputPath": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+    "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj",
+        "projectName": "Armarinho",
+        "projectPath": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\Armarinho.csproj",
+        "packagesPath": "C:\\Users\\021.854295\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Suricato Furtivo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\021.854295\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

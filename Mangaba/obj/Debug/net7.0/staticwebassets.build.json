@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "SWkYRTIotAity9mlUl3vYp7fDzc7Sin/YbrvlyBsH/U=",
 =======
 <<<<<<< HEAD
@@ -9,6 +10,12 @@
   "Hash": "zJqiCukJ/GYaUuhbcGr2yU/OsnYI10f/a49wRoZfZqM=",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+  "Hash": "y6mbC/GISwZiI7EQpYAB81Y2jR0mqpvHwkWlATpDTVg=",
+=======
+  "Hash": "emecLFABbTcdNmNaY8Xse7s2AWHAeLT95E6+2Z+a0xg=",
+>>>>>>> 911e2988ad8215c3de6cbc85915a957d69c53774
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
   "Source": "Armarinho",
   "BasePath": "_content/Armarinho",
   "Mode": "Default",
@@ -19,6 +26,7 @@
       "Name": "Armarinho\\wwwroot",
       "Source": "Armarinho",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\",
 =======
 <<<<<<< HEAD
@@ -27,12 +35,16 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css",
       "SourceId": "Armarinho",
@@ -51,6 +63,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "Armarinho.styles.css",
       "AssetKind": "All",
@@ -61,6 +79,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css"
 =======
@@ -86,6 +105,15 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "OriginalItemSpec": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Armarinho.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Armarinho.bundle.scp.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "Armarinho.bundle.scp.css",
       "AssetKind": "All",
@@ -97,6 +125,7 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Armarinho.bundle.scp.css"
 =======
 <<<<<<< HEAD
@@ -104,6 +133,13 @@
     },
     {
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\css\\site.css",
+=======
+      "OriginalItemSpec": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Armarinho.bundle.scp.css"
+    },
+    {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\bolsa.ico",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\",
@@ -122,6 +158,60 @@
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
       "BasePath": "_content/Armarinho",
+      "RelativePath": "bolsa.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bolsa.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\css\\site.css",
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\bolsa.ico",
+>>>>>>> 911e2988ad8215c3de6cbc85915a957d69c53774
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "bolsa.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bolsa.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\criativa.svg",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "criativa.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\criativa.svg"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\css\\site.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -134,6 +224,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\favicon.ico",
       "SourceId": "Armarinho",
@@ -152,6 +243,29 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\facebook.ico",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "facebook.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\facebook.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\favicon.ico",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -166,6 +280,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\js\\site.js",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
@@ -178,11 +293,68 @@
       "ContentRoot": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\",
 =======
       "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\js\\site.js",
+=======
+      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\img1.png",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "img1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\js\\site.js",
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\img1.png",
+>>>>>>> 911e2988ad8215c3de6cbc85915a957d69c53774
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "img1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img1.png"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\instagram.ico",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "instagram.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\instagram.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\js\\site.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -196,6 +368,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Armarinho",
@@ -214,6 +387,29 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\Koios.svg",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "Koios.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Koios.svg"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -227,6 +423,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Armarinho",
@@ -245,6 +442,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -258,6 +461,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Armarinho",
@@ -276,6 +480,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,6 +499,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Armarinho",
@@ -307,6 +518,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -320,6 +537,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Armarinho",
@@ -338,6 +556,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -351,6 +575,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Armarinho",
@@ -369,6 +594,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -382,6 +613,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Armarinho",
@@ -400,6 +632,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -413,6 +651,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Armarinho",
@@ -431,6 +670,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -444,6 +689,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Armarinho",
@@ -462,6 +708,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -475,6 +727,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Armarinho",
@@ -493,6 +746,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -506,6 +765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Armarinho",
@@ -524,6 +784,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -537,6 +803,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Armarinho",
@@ -555,6 +822,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -568,6 +841,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Armarinho",
@@ -586,6 +860,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -599,6 +879,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Armarinho",
@@ -617,6 +898,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -630,6 +917,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Armarinho",
@@ -648,6 +936,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -661,6 +955,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Armarinho",
@@ -679,6 +974,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -692,6 +993,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Armarinho",
@@ -710,6 +1012,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -723,6 +1031,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Armarinho",
@@ -741,6 +1050,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -754,6 +1069,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Armarinho",
@@ -772,6 +1088,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -785,6 +1107,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Armarinho",
@@ -803,6 +1126,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -816,6 +1145,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Armarinho",
@@ -834,6 +1164,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -847,6 +1183,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Armarinho",
@@ -865,6 +1202,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -878,6 +1221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Armarinho",
@@ -896,6 +1240,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -909,6 +1259,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Armarinho",
@@ -927,6 +1278,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -940,6 +1297,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Armarinho",
@@ -958,6 +1316,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -971,6 +1335,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Armarinho",
@@ -989,6 +1354,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1002,6 +1373,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Armarinho",
@@ -1020,6 +1392,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1033,6 +1411,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Armarinho",
@@ -1051,6 +1430,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1064,6 +1449,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Armarinho",
@@ -1082,6 +1468,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1095,6 +1487,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Armarinho",
@@ -1113,6 +1506,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1126,6 +1525,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Armarinho",
@@ -1144,6 +1544,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1157,6 +1563,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Armarinho",
@@ -1175,6 +1582,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1188,6 +1601,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Armarinho",
@@ -1206,6 +1620,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1219,6 +1639,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Armarinho",
@@ -1237,6 +1658,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1250,6 +1677,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Armarinho",
@@ -1268,6 +1696,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1281,6 +1715,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Armarinho",
@@ -1299,6 +1734,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1312,6 +1753,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Armarinho",
@@ -1330,6 +1772,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1343,6 +1791,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Armarinho",
@@ -1361,6 +1810,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1374,6 +1829,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Armarinho",
@@ -1392,6 +1848,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1405,6 +1867,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Armarinho",
@@ -1423,6 +1886,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1436,6 +1905,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Armarinho",
@@ -1454,6 +1924,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1467,6 +1943,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Armarinho",
@@ -1485,6 +1962,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1498,6 +1981,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Armarinho",
@@ -1516,6 +2000,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1529,6 +2019,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Armarinho",
@@ -1547,6 +2038,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1560,6 +2057,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Armarinho",
@@ -1578,6 +2076,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1591,6 +2095,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Armarinho",
@@ -1609,6 +2114,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1622,6 +2133,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Armarinho",
@@ -1640,6 +2152,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1653,6 +2171,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Armarinho",
@@ -1671,6 +2190,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1684,6 +2209,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Armarinho",
@@ -1702,6 +2228,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1715,6 +2247,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Armarinho",
@@ -1733,6 +2266,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1746,6 +2285,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Armarinho",
@@ -1764,6 +2304,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1777,6 +2323,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Armarinho",
@@ -1795,6 +2342,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1808,6 +2361,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Armarinho",
@@ -1826,6 +2380,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1839,6 +2399,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Armarinho",
@@ -1857,6 +2418,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1870,6 +2437,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Armarinho",
@@ -1888,6 +2456,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1901,6 +2475,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Armarinho",
@@ -1919,6 +2494,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1932,6 +2513,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Armarinho",
@@ -1950,6 +2532,12 @@
       "ContentRoot": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\",
 >>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
 >>>>>>> a112a00fc92c209f571b4a6583510b33a940b328
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1965,10 +2553,17 @@
 =======
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\lupa.png",
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\lupa.png",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "BasePath": "_content/Armarinho",
       "RelativePath": "lupa.png",
       "AssetKind": "All",
@@ -1982,10 +2577,52 @@
       "OriginalItemSpec": "wwwroot\\lupa.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\Nunito-VariableFont_wght.ttf",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\mVariedadesico.ico",
+>>>>>>> 032341ba56154c2ea83e2e48d3cced344d9c376e
       "SourceId": "Armarinho",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Suricato Furtivo\\Documents\\Armarinho\\mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "mVariedadesico.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mVariedadesico.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Condoriano\\Desktop\\trampos\\Armarinho\\Mangaba\\wwwroot\\Nunito-VariableFont_wght.ttf",
+=======
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\mVariedadesico.ico",
+>>>>>>> 911e2988ad8215c3de6cbc85915a957d69c53774
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
+      "BasePath": "_content/Armarinho",
+      "RelativePath": "mVariedadesico.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mVariedadesico.ico"
+    },
+    {
+      "Identity": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\Nunito-VariableFont_wght.ttf",
+      "SourceId": "Armarinho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\021.854295\\Desktop\\Mangaba\\Armarinho\\Mangaba\\wwwroot\\",
       "BasePath": "_content/Armarinho",
       "RelativePath": "Nunito-VariableFont_wght.ttf",
       "AssetKind": "All",

@@ -1,9 +1,12 @@
-﻿<!DOCTYPE html>
+﻿@{
+  var title = "Mangaba";
+}
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Armarinho</title>
+    <title>@title - @ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Armarinho.styles.css" asp-append-version="true" />
@@ -13,16 +16,18 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap" rel="stylesheet">
+    <link rel="icon" href="mVariedadesico.ico" type="image/x-icon">
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom shadow-sm p-3 mb-3 bg-white rounded f fluid">
-           <div class="container fluid justify-content-center w-100">
-            <div class="mangabaMenu" style="margin-bottom: 15px;">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom shadow-box shadow p-3 mb-5 bg-white rounded f fluid">
+           <div class="container fluid justify-content-evenly w-100">
+            <div class="mangabaMenu mb-3">
                 <div class="row d-flex">
-    <div class="col d-flex w-100 justify-content-around align-items-end conteudos">
-      <a class="nav-link text-dark" style="padding: 0;"  asp-area="" asp-controller="Home" asp-action="Index">Início</a>
-      <a class="nav-link text-dark" style="padding: 0;" asp-area="" asp-controller="Home" asp-action="Index">Novidades</a>
+                    <div class="col"></div>
+    <div class="col d-flex w-100 justify-content-between align-items-end conteudos">
+      <a class="nav-link text-dark" style="padding: 0 10px 0 10px;"  asp-area="" asp-controller="Home" asp-action="Index">Início</a>
+      <a class="nav-link text-dark" style="padding: 0 10px 0 10px;" asp-area="" asp-controller="Home" asp-action="Index">Novidades</a>
     </div>
     <div class="col d-flex justify-content-center">
       <svg xmlns="http://www.w3.org/2000/svg" width="222" height="79" viewBox="0 0 222 79" fill="none">
@@ -59,30 +64,65 @@
   <path d="M216.984 76.1363C216.688 76.1363 216.37 76.1028 216.034 76.039C215.705 75.9842 215.409 75.8808 215.147 75.7348C215.039 75.6619 214.962 75.5828 214.912 75.4915C214.869 75.4033 214.854 75.3152 214.863 75.2239C214.878 75.1266 214.915 75.0475 214.974 74.9806C215.029 74.9076 215.103 74.8651 215.196 74.8468C215.295 74.8225 215.396 74.8407 215.504 74.8955C215.782 75.0262 216.041 75.1144 216.281 75.1631C216.528 75.2118 216.765 75.2361 216.996 75.2361C217.332 75.2361 217.579 75.1844 217.736 75.0779C217.899 74.9654 217.983 74.8164 217.983 74.6278C217.983 74.4666 217.927 74.345 217.822 74.2629C217.714 74.1747 217.554 74.1108 217.341 74.0682L216.306 73.8736C215.877 73.7945 215.547 73.6394 215.319 73.4113C215.097 73.1863 214.986 72.8882 214.986 72.5233C214.986 72.2009 215.076 71.9211 215.258 71.6839C215.446 71.4406 215.701 71.2551 216.022 71.1243C216.349 70.9966 216.725 70.9297 217.144 70.9297C217.446 70.9297 217.73 70.9631 217.995 71.027C218.266 71.0939 218.525 71.1943 218.772 71.3311C218.877 71.3798 218.947 71.4497 218.981 71.5379C219.021 71.6292 219.031 71.7204 219.006 71.8177C218.988 71.909 218.947 71.988 218.883 72.061C218.824 72.134 218.747 72.1796 218.648 72.1948C218.556 72.2131 218.454 72.1918 218.34 72.134C218.124 72.0306 217.921 71.9515 217.724 71.9029C217.526 71.8542 217.335 71.8299 217.156 71.8299C216.817 71.8299 216.568 71.8907 216.404 72.0124C216.238 72.1279 216.158 72.277 216.158 72.4625C216.158 72.6085 216.207 72.7301 216.306 72.8274C216.404 72.9187 216.552 72.9825 216.75 73.0221L217.785 73.2167C218.235 73.2988 218.578 73.4478 218.809 73.6668C219.037 73.8858 219.154 74.1777 219.154 74.5427C219.154 75.0475 218.957 75.4398 218.562 75.7227C218.168 75.9994 217.64 76.1363 216.984 76.1363Z" fill="#445441"/>
 </svg>
     </div>
-    <div class="col d-flex justify-content-around align-items-end conteudos">
-        <a class="nav-link text-dark" style="padding: 0;" asp-area="" asp-controller="Home" asp-action="Privacy"><div class="buscar">
+    <div class="col d-flex justify-content-between align-items-end conteudos">
+        <a class="nav-link text-dark" style="padding: 0 10px 0 10px;" asp-area="" asp-controller="Home" asp-action="Privacy"><div class="buscar">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16" fill="none" style="margin-right: 5px;">
             <path d="M16.2489 15L14.7665 13.6274M8.17012 14.0393C9.09478 14.0393 10.0104 13.8706 10.8647 13.543C11.7189 13.2154 12.4952 12.7351 13.149 12.1297C13.8028 11.5243 14.3215 10.8056 14.6753 10.0146C15.0292 9.2236 15.2113 8.37581 15.2113 7.51964C15.2113 6.66347 15.0292 5.81568 14.6753 5.02468C14.3215 4.23368 13.8028 3.51496 13.149 2.90956C12.4952 2.30415 11.7189 1.82392 10.8647 1.49628C10.0104 1.16864 9.09478 1 8.17012 1C6.30267 1 4.51171 1.68689 3.19123 2.90956C1.87075 4.13223 1.12891 5.79052 1.12891 7.51964C1.12891 9.24875 1.87075 10.9071 3.19123 12.1297C4.51171 13.3524 6.30267 14.0393 8.17012 14.0393Z" stroke="#393532" stroke-width="1.64707" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
             Buscar
         </div>
         </a>
-        <a class="nav-link text-dark" style="padding: 0;" asp-area="" asp-controller="Home" asp-action="Privacy"><div class="buscar">Contato</a>
+        <a class="nav-link text-dark" style="padding: 0 10px 0 10px;" asp-area="" asp-controller="Home" asp-action="Privacy"><div class="buscar">Contato</a>
     </div>
   </div>
+    <div class="col"></div>
             </div>
 </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    <div class="container d-flex pb-5">
+        <main role="main" class="pb-3 w-100 d-flex justify-content-center mb-3">
             @RenderBody()
         </main>
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Armarinho - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <div class="container d-flex w-100 align-items-center mt-3 mb-3 px-0 justify-content-center">
+          <div class="row d-flex w-100">
+          <div class="col w-100">
+            <img src="mVariedadesico.ico" alt="">
+          </div>
+          <div class="col redes d-flex flex-column px-0">
+            <p class="h6">Redes Sociais</p>
+          <ul class="col d-flex justify-content-start align-items-center px-0 mb-0">
+            <li>
+              <a href=""><img class="pe-3" src="instagram.ico" alt="Instagram">
+          </a>
+            </li>
+            <li>
+              <a href=""><img src="facebook.ico" alt="Facebook"></a>
+            </li>
+          </ul>
+          </div>
+            <div class="col copyright d-flex align-items-center justify-content-center text-center"> 
+              <div class="copy pe-2">   
+            <p class="h6">&copy;Copyright 2023 Mangaba Variedades - Todos os direitos reservados</p>
+              </div>
+            </div>
+            <div class="col colab d-flex justify-content-between w-100">
+              <div class="desenvolvimento d-flex justify-content-center text-center flex-column text-dark">
+              <p class="h6 px-0">Desenvolvimento</p>
+                <div class="koios text-dark flex-column justify-content-center">
+                  <img class="align-self-center" src="Koios.svg" width="48" alt="Koíos">
+                  <p class="h6">Koíos</p>
+                </div>
+            </div>
+            <div class="design d-flex justify-content-start text-start flex-column text-dark">
+              <p class="h6">Design</p>
+              <img class="" src="criativa.svg" style="max-width: 72px;" alt="Criativa">
+            </div>
+            </div>
+          </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
