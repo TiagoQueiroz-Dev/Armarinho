@@ -976,6 +976,8 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt))</OriginalItemSpec>
     </StaticWebAsset>
+<<<<<<< HEAD
+=======
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lupa.png))">
       <SourceType>Package</SourceType>
       <SourceId>Armarinho</SourceId>
@@ -1008,5 +1010,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Nunito-VariableFont_wght.ttf))</OriginalItemSpec>
     </StaticWebAsset>
+>>>>>>> 65a4fe6c62411102ebf30ade41c343fc7245209b
   </ItemGroup>
 </Project>
