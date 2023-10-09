@@ -1,21 +1,22 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Armarinho.Models;
+using Armarinho.Database;
 
 namespace Armarinho.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
+    private Contexto _db;
+    public HomeController(Contexto db)
     {
-        _logger = logger;
+        _db = db;
     }
 
     public IActionResult Index()
     {
-        return View();
+        var produto = _db.Produtos.ToList();
+        return View(produto);
     }
 
     public IActionResult Privacy()

@@ -1,4 +1,5 @@
-﻿@{
+﻿@model List<Produto>
+@{
     var titulo = "Início";
     ViewData["Title"] = @titulo;
 }
@@ -41,32 +42,13 @@
             <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="row align-items-start">
-                <div class="col flex-column pb-5">
+                @foreach(var item in Model){
+                    <div class="col flex-column pb-5">
                     <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-                <div class="col flex-column pb-5">
-                    <a href=""><img src="/img1.png" alt="" width="200" height="200" srcset=""></a>
-                    <h6>Lorem ipsum dolor sit </h6>
-                    <h5>R$0,00</h5>
-                </div>
-            </div>
+                    <h6>@item.Nome</h6>
+                    <h5>R$ @item.Valor</h5>
+                    </div>
+                }
                 </div>
             <div class="carousel-item">
                 <div class="row align-items-start">

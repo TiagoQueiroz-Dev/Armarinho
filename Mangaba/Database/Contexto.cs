@@ -1,14 +1,13 @@
 using Microsoft.EntityFrameworkCore;
-using Mangaba.Models;
+using Armarinho.Models;
 
-namespace Teste4.Database
+namespace Armarinho.Database;
+
+public class Contexto : DbContext
 {
-    public class Context : DbContext
+    public Contexto(DbContextOptions<Contexto> options) : base(options)
     {
-        public Context(DbContextOptions<Context> options) : base(options)
-        {
-        }
-
-        public DbSet<Produto> Produtos { get; set; }
     }
+
+    public DbSet<Produto> Produtos { get; set; }
 }

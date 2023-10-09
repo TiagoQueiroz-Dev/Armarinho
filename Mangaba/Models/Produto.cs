@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mangaba.Models
-{
+namespace Armarinho.Models;
+
     public class Produto
     {
         public int Id { get; set; }
@@ -13,4 +13,3 @@ namespace Mangaba.Models
         public string Categoria { get; set; }
         public string Descricao { get; set; }
     }
-}
