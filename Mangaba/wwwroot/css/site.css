@@ -1,0 +1,210 @@
+@media only screen and (max-width: 767px) {
+  .conteudos{
+    display: none !important;
+  }
+  .bloco1{
+    margin: 20px;
+    font-size: 40px!important;
+    text-align: center!important;
+    align-items: center!important;
+  }
+}
+@media only screen and (min-width: 768px){
+  .bloco2_mobile{
+    display: none!important;
+  }
+  .burguerButton{
+    display: none!important;
+  }
+}
+.botao_carrossel{
+  position: absolute;
+  justify-content: start;
+  margin: 1.5rem 0 0 0;
+}
+.burguer{
+  width: 48px;
+}
+html {
+  font-size: 14px;
+  scroll-behavior: smooth;
+}
+.novidades{
+  color: var(--foundation-neutras-grey-500, var(--cores-neutra-merlin-01, #393532));
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px; /* 200% */
+}
+#title{
+  margin: 10px;
+  text-align: start;
+  font-family: 'Nunito', sans-serif;
+  color: var(--foundation-neutras-grey-500, var(--cores-neutra-merlin-01, #393532));
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px; /* 200% */
+}
+.bloco1{
+  color: #615D5B;
+  text-align: start;
+  font-family: 'League Spartan', sans-serif;
+  font-size: 55px;
+  display: flex;
+  width: 398px;
+  height: 284px;
+  min-width: 200px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  line-height: 112.727%;
+}
+.bloco1 .btn{
+  margin-top: 25px;
+  color: white;
+  font-size: 25px;
+  display: flex;
+  width: 223px;
+  height: 45px;
+  padding: 8px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+  border-radius: 30px;
+}
+.redes .h6{
+  margin: 0;
+}
+.bloco2{
+  margin: 0;
+  padding: 0px;
+  width: 583px;
+  height: 413px;
+}
+.bloco2_mobile{
+  flex-direction: column;
+}
+.bloco2_mobile .btn{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  color: #FFF;
+  text-shadow: 0px 2.9949846267700195px 2.9949846267700195px rgba(0, 0, 0, 0.25);
+  font-family: 'Nunito', sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34.283px; /* 97.952% */
+  box-shadow: 0px 2.74266px 2.74266px 0px rgba(0, 0, 0, 0.25) inset;
+}
+.bloco2 .btn{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  color: #FFF;
+  text-shadow: 0px 2.9949846267700195px 2.9949846267700195px rgba(0, 0, 0, 0.25);
+  font-family: 'Nunito', sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34.283px; /* 97.952% */
+  box-shadow: 0px 2.74266px 2.74266px 0px rgba(0, 0, 0, 0.25) inset;
+}
+.bloco2_mobile .btn.btn1_mobile{
+  background-color: #E9F374;
+  padding: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+}
+.bloco2_mobile .btn.btn2_mobile{
+  background-color: #CAD82C;
+  padding: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+}
+.bloco2_mobile .btn.btn3_mobile{
+  background-color: #577950;
+  padding: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+}
+.bloco2_mobile .btn.btn4_mobile{
+  background-color: #445441;
+  padding: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+}
+.bloco2_mobile .btn.btn5_mobile{
+  background-color: #9EA822;
+  padding: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+}
+.bloco2 .btn.btn1{
+  background-color: #E9F374;
+  width: 471px;
+  height: 128px;
+  flex-shrink: 0;
+  margin: 0 10px 10px 0;
+}
+.bloco2 .btn.btn2{
+  background-color: #CAD82C;
+  width: 164px;
+  height: 164px;
+  flex-shrink: 0;
+}
+.bloco2 .btn.btn3{
+  background-color: #577950;
+  width: 297px;
+  height: 164px;
+  flex-shrink: 0;
+}
+.bloco2 .btn.btn4{
+  background-color: #445441;
+  width: 100px;
+  height: 302px;
+  flex-shrink: 0;
+}
+.bloco2 .btn.btn5{
+  background-color: #9EA822;
+  width: 100%;
+  height: 93px;
+  flex-shrink: 0;
+  margin: 0;
+}
+.bloco2_2{
+  margin: 0 10px 0 0;
+}
+.bloco2_1{
+  height: 310px;
+  width: 483px;
+}
+.bloco2_3{
+  padding: 0;
+  margin: 0;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.redes ul li{
+  list-style: none;
+}
+.redes h6{
+  margin: 0;
+}
+.design h6,.desenvolvimento h6{
+  text-align: start;
+}
